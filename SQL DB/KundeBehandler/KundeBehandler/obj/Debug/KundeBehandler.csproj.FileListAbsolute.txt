@@ -1,0 +1,9 @@
+c:\users\tobias\documents\visual studio 2015\Projects\KundeBehandler\KundeBehandler\bin\Debug\KundeBehandler.exe.config
+c:\users\tobias\documents\visual studio 2015\Projects\KundeBehandler\KundeBehandler\obj\Debug\KundeBehandler.csprojResolveAssemblyReference.cache
+c:\users\tobias\documents\visual studio 2015\Projects\KundeBehandler\KundeBehandler\obj\Debug\KundeBehandler.Form1.resources
+c:\users\tobias\documents\visual studio 2015\Projects\KundeBehandler\KundeBehandler\obj\Debug\KundeBehandler.Properties.Resources.resources
+c:\users\tobias\documents\visual studio 2015\Projects\KundeBehandler\KundeBehandler\obj\Debug\KundeBehandler.csproj.GenerateResource.Cache
+c:\users\tobias\documents\visual studio 2015\Projects\KundeBehandler\KundeBehandler\bin\Debug\KundeBehandler.exe
+c:\users\tobias\documents\visual studio 2015\Projects\KundeBehandler\KundeBehandler\bin\Debug\KundeBehandler.pdb
+c:\users\tobias\documents\visual studio 2015\Projects\KundeBehandler\KundeBehandler\obj\Debug\KundeBehandler.exe
+c:\users\tobias\documents\visual studio 2015\Projects\KundeBehandler\KundeBehandler\obj\Debug\KundeBehandler.pdb
