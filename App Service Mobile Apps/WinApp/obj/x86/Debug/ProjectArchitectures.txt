@@ -1,0 +1,2 @@
+E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\Kernel\Kernel.csproj;neutral
+E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\WinApp\Kernel.WinApp.csproj;x86

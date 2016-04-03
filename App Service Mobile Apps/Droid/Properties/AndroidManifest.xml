@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.xamarin.sample.Kernel">
+	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="23" />
+	<!-- GCM connects to Google Services. -->
+	<uses-permission android:name="android.permission.INTERNET" />
+	<!-- GCM requires a Google account. -->
+	<uses-permission android:name="android.permission.GET_ACCOUNTS" />
+	<!-- Keeps the processor from sleeping when a message is received. -->
+	<uses-permission android:name="android.permission.WAKE_LOCK" />
+	<!--
+     Creates a custom permission so only this app can receive its messages.
+
+     NOTE: the permission *must* be called PACKAGE.permission.C2D_MESSAGE,
+           where PACKAGE is the application's package name.
+    -->
+	<permission android:name="com.xamarin.sample.Kernel.permission.C2D_MESSAGE" android:protectionLevel="signature" />
+	<uses-permission android:name="com.xamarin.sample.Kernel.permission.C2D_MESSAGE" />
+	<!-- This app has permission to register and receive data message. -->
+	<uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+	<application android:label="Kernel" android:name="Kernel.Droid.KernelApplication" android:icon="@drawable/icon"></application>
+</manifest>

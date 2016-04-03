@@ -1,0 +1,75 @@
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\ContactList.dll.config
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\ContactList.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\ContactList.pdb
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\Newtonsoft.Json.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\Swashbuckle.Core.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\System.Net.Http.Formatting.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\System.Web.Http.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\System.Web.Http.WebHost.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\WebActivatorEx.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\Newtonsoft.Json.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\System.Net.Http.Formatting.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\System.Web.Http.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\bin\System.Web.Http.WebHost.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\obj\Release\ContactList.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\ContactList\obj\Release\ContactList.pdb
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\bin\ContactList.dll.config
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\bin\ContactList.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\bin\ContactList.pdb
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\bin\Newtonsoft.Json.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\bin\Swashbuckle.Core.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\bin\System.Net.Http.Formatting.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\bin\System.Web.Http.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\bin\System.Web.Http.WebHost.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\bin\WebActivatorEx.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\bin\Newtonsoft.Json.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\bin\System.Net.Http.Formatting.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\bin\System.Web.Http.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\bin\System.Web.Http.WebHost.xml
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\obj\Release\ContactList.csprojResolveAssemblyReference.cache
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\obj\Release\ContactList.dll
+C:\Users\bradyg\Desktop\DistrosForMatt\DotNet-ContactList-Project\ContactList\obj\Release\ContactList.pdb
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\ContactList.dll.config
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\ContactList.dll
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\ContactList.pdb
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\Microsoft.Web.Infrastructure.dll
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\Newtonsoft.Json.dll
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\Swashbuckle.Core.dll
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\System.Net.Http.Formatting.dll
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\System.Web.Http.dll
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\System.Web.Http.WebHost.dll
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\WebActivatorEx.dll
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\Newtonsoft.Json.xml
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\System.Net.Http.Formatting.xml
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\System.Web.Http.xml
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\System.Web.Http.WebHost.xml
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\obj\Release\ContactList.csprojResolveAssemblyReference.cache
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\obj\Release\ContactList.dll
+E:\Microsoft Azure Examples\DotNet-ContactList\ContactList\obj\Release\ContactList.pdb
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\ContactList.dll.config
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\ContactList.dll
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\ContactList.pdb
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\Microsoft.Web.Infrastructure.dll
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\Newtonsoft.Json.dll
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\Swashbuckle.Core.dll
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\System.IdentityModel.Tokens.Jwt.dll
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\System.Net.Http.Formatting.dll
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\System.Web.Http.dll
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\System.Web.Http.WebHost.dll
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\WebActivatorEx.dll
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\System.IdentityModel.Tokens.Jwt.xml
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\Newtonsoft.Json.xml
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\System.Net.Http.Formatting.xml
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\System.Web.Http.xml
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\bin\System.Web.Http.WebHost.xml
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\obj\Release\ContactList.csprojResolveAssemblyReference.cache
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\obj\Release\ContactList.dll
+G:\Dropbox\Microsoft Azure Examples\DotNet-ContactList\ContactList\obj\Release\ContactList.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>G:\Dropbox\Microsoft Azure Examples\Kernel_Xamarin_Forms\Droid\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>G:\Dropbox\Microsoft Azure Examples\Kernel_Xamarin_Forms\Droid\obj\Debug\__library_projects__\PushNotification.Plugin\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>G:\Dropbox\Microsoft Azure Examples\Kernel_Xamarin_Forms\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>G:\Dropbox\Microsoft Azure Examples\Kernel_Xamarin_Forms\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>G:\Dropbox\Microsoft Azure Examples\Kernel_Xamarin_Forms\Droid\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>G:\Dropbox\Microsoft Azure Examples\Kernel_Xamarin_Forms\Droid\obj\Debug\__library_projects__\PushNotification.Plugin\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>G:\Dropbox\Microsoft Azure Examples\Kernel_Xamarin_Forms\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>G:\Dropbox\Microsoft Azure Examples\Kernel_Xamarin_Forms\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>G:\Dropbox\Microsoft Azure Examples\Kernel_Xamarin_Forms\Droid\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>G:\Dropbox\Microsoft Azure Examples\Kernel_Xamarin_Forms\Droid\obj\Debug\__library_projects__\PushNotification.Plugin.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>G:\Dropbox\Microsoft Azure Examples\Kernel_Xamarin_Forms\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>G:\Dropbox\Microsoft Azure Examples\Kernel_Xamarin_Forms\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

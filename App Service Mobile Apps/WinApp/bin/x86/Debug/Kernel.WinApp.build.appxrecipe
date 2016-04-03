@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-DH9J7QI</Machine>
+    <WindowsUser>kkho</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>43e3c925-1cf2-4e0e-92ff-74d3a13fcfa3</PackageIdentityName>
+    <IntermediateOutputPath>E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\WinApp\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\WinApp\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\WinApp\bin\x86\Debug\WinApp.exe">
+      <PackagePath>WinApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\Kernel\bin\Debug\Kernel.dll">
+      <PackagePath>Kernel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Microsoft.Azure.Mobile.Client.2.0.1\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Microsoft.Azure.Mobile.Client.2.0.1\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Xamarin.Forms.2.0.1.6495\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Xamarin.Forms.2.0.1.6495\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Xamarin.Forms.2.0.1.6495\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Xamarin.Forms.2.0.1.6495\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Xamarin.Forms.2.0.1.6495\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\WinApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\WinApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\WinApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\WinApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\WinApp\bin\x86\Debug\WinApp.xr.xml">
+      <PackagePath>WinApp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\WinApp\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\WinApp\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Xamarin.Forms.2.0.1.6495\lib\win81\Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\FormsTextBox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Xamarin.Forms.2.0.1.6495\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Xamarin.Forms.2.0.1.6495\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Xamarin.Forms.2.0.1.6495\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Xamarin.Forms.2.0.1.6495\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Xamarin.Forms.2.0.1.6495\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\packages\Xamarin.Forms.2.0.1.6495\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Azure Examples\Kernel_Xamarin_Forms\WinApp\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
