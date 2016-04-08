@@ -6,5 +6,5 @@ All code connected to the video series on Channel 9 (https://channel9.msdn.com/S
 * Khiem Kim Ho Xuan
 * Tobias Kullblikk
 * Kristoffer Møgster Berge
-* Patricia Lange
+* Patricia Zemer
 
