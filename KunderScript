@@ -1,0 +1,4 @@
+create table Kunder ([ID] int  identity (1,1) not null,
+[fornavn] varchar(50) default ('Ola') null,
+[etternavn] varchar(50) default ('Normann') null,
+[saldo] decimal (18) default ((0)) null, primary key clustered ([ID] ASC))
